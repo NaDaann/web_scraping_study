@@ -2,7 +2,7 @@
 
 Olá! Meu nome é Daniel Batista Miranda e gostaria de compartilhar com você o meu projeto de coleta de telefones e emails de empresas determinadas. Essa aplicação foi desenvolvida com o objetivo de aprimorar minhas habilidades e conhecimentos em web scraping e automação de navegação.
 
-A ideia por trás desse projeto surgiu da minha curiosidade em explorar a capacidade de extrair informações relevantes da internet de forma automatizada. Utilizando técnicas avançadas de web scraping, a aplicação é capaz de acessar sites, pesquisar e coletar telefones e emails de empresas específicas.
+A ideia por trás desse projeto surgiu da curiosidade em explorar a capacidade de extrair informações relevantes da internet de forma automatizada. Utilizando técnicas avançadas de web scraping, a aplicação é capaz de acessar sites, pesquisar e coletar telefones e emails de empresas específicas.
 
 Gostaria de enfatizar que esse projeto foi desenvolvido exclusivamente para fins educacionais. Portanto, é fundamental utilizar a aplicação com responsabilidade e em conformidade com as leis e regulamentos aplicáveis. Certifique-se de obter a permissão adequada antes de coletar informações de qualquer empresa ou site.
 
